@@ -1,5 +1,5 @@
 # DNU FTF Introduction to Computer Science Course
-This is repository is used to store materials, lectures, labs of the dnu ftf introduction to computer science course.
+This repository is used to store materials, lectures, labs of the dnu ftf introduction to computer science course.
 
 ## Presequences
 
