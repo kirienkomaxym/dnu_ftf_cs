@@ -69,7 +69,7 @@ jupyter notebook
 
 ### TG Bot Registration
 
-* launch telegram and find the [bot](t.me/dnu_ftf_cs_bot.)
+* launch telegram and find the [bot](https://t.me/dnu_ftf_cs_bot)
 * print `/register` and follow the instructions
 
 
