@@ -74,7 +74,47 @@ jupyter notebook
 
 
 ## Course Structure
-TBD
+
+### Lectures
+* Lecture 1: Compliers & Interpreters, I/O, Variables, Data Types;
+* Lecture 2: Logic Statements, Loops, Indentation
+* Lecture 3: Functions, Generators, Decorators
+* Lecture 4: Objects, OOP
+* Lecture 5: Errors, Files, Logging, Libraries, Imports
+* Lecture 6: IDEs, Testing, Unit-Testing, Debugging
+* Lecture 7: Async Basics, API Basics
+
+### Labs
+* Lab1: Data Types: Strings, Numbers, Bytes, Boolean;
+* Lab2: Data Types: Lists, Dictionaries, Tuples, Sets;
+* Lab3: Functions: Function Syntax, Return, Arguments, Scope;
+* Lab4: Functions: Recursion, Yield, Generators, Decorators;
+* Lab5: Objects: Objects Creating, Methods, Fields, UML-Diagramming;
+* Lab6: Objects: Inheritance, Poly, Encapsulation;
+* Lab7: Objects: Dunders, Static and Classmethods;
+* Lab8: Errors, Try/Except/Finally, Logging;
+* Lab9: Libraries, Imports, IDEs;
+* Lab10: Testing, Assert, Unit-Testing, Test-Driven-Development;
+* Lab11: Libraries: Numpy, Matplotlib; 
+* Lab12: Libraries: Scikit, Pandas;
+* Lab13: Yields again, Select, Async;
+* Lab14: APIs, REST, WebSocket;
+
+### Programming Assignments
+* PS1: Data Types: Strings, Numbers, Bytes, Boolean;
+* PS2: Data Types: Lists, Dictionaries, Tuples, Sets
+* PS3: Functions
+* PS4: Functions
+* PS5: Recursion, Decorators, Yields
+* PS6: OOP
+* PS7: OOP
+* PS8: OOP
+* PS9: OOP
+* PS9: Testing
+* PS10: Numpy
+* PS11: Scikit
+* PS12: Pandas
+* PS13: Async
 
 ## Assignment Grades & Exam
 
