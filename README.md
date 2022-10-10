@@ -77,7 +77,7 @@ jupyter notebook
 
 ### Lectures
 * Lecture 1: Compliers & Interpreters, I/O, Variables, Data Types;
-* Lecture 2: Logic Statements, Loops, Indentation
+* Lecture 2: Logic Statements, If/Elif/Else, Loops, Indentation
 * Lecture 3: Functions, Generators, Decorators
 * Lecture 4: Objects, OOP
 * Lecture 5: Errors, Files, Logging, Libraries, Imports
@@ -103,7 +103,7 @@ jupyter notebook
 ### Programming Assignments
 * PS1: Data Types: Strings, Numbers, Bytes, Boolean;
 * PS2: Data Types: Lists, Dictionaries, Tuples, Sets
-* PS3: Functions
+* PS3: Logic Statements, If/Elif/Else, Loops, Indentation
 * PS4: Functions
 * PS5: Recursion, Decorators, Yields
 * PS6: OOP
