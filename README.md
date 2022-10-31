@@ -90,8 +90,8 @@ jupyter notebook
 * Lab3: Functions: Function Syntax, Return, Arguments, Scope;
 * Lab4: Functions: Recursion, Yield, Generators, Decorators;
 * Lab5: Objects: Objects Creating, Methods, Fields, UML-Diagramming;
-* Lab6: Objects: Inheritance, Poly, Encapsulation;
-* Lab7: Objects: Dunders, Static and Classmethods;
+* Lab6: Objects: Dunders, Static and Classmethods;
+* Lab7: Objects: Inheritance, Poly, Encapsulation
 * Lab8: Errors, Try/Except/Finally, Logging;
 * Lab9: Libraries, Imports, IDEs;
 * Lab10: Testing, Assert, Unit-Testing, Test-Driven-Development;
